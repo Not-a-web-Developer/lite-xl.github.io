@@ -60,7 +60,8 @@ navigation:
     url: "/en/tutorials/simple-plugin"
   - label: "API Overview"
     url: "/en/tutorials/api-overview"
-
+  - label: "Customization"
+    url: "/en/tutorials/customization"
 - label: "Downloads"
   url: "/en/downloads"
   icon_type: "download"
