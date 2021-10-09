@@ -86,4 +86,6 @@ local style = require "core.style"
 
 so here in the beginning of the file, you link to specific modules in the codebase of the editor, since lite-xl is built such that modules made of multiple files have their entry point as init.lua; you can add others too, if you need it (for example, the LSP server plugin needs you to require the plugin folder here at the top by adding `local lsp = require "plugins.lsp"`).
 
+
+
 [settings]: {{ 'assets/img/screenshots/settings.jpg' | relative_url }}
