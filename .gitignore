@@ -13,4 +13,3 @@ Gemfile.lock
 *.code-workspace
 *.diff
 *.log
-rvm-install
